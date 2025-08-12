@@ -1,3 +1,3 @@
-# Algorithmic-Portfolio-Execution-Intraday-Equities-Results
+# Algorithmic Portfolio Execution -- Intraday Equities Results
 Results of Algorithmic Portfolio Execution – Intraday Equities, Live Trading Strategy, Last updated 8/11/2025
 [CURRENT RESULTS](ML_Enhanced_Mean_Variance_Optimization.pdf)
